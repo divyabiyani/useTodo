@@ -1,2 +1,0 @@
-# useTodo
-Created with CodeSandbox
